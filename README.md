@@ -64,29 +64,6 @@ All three were written **during the pandemic and before the large-language-model
 
 > If you bought one: thank you. If you pirated one: I forgive you, but write a review.
 
-## How I write about code
-
-When I teach, I try to show the editor the way you actually see it — file tree, the open tab, the squiggly red line that ruined your morning. Something like:
-
-```tsx
-// app/page.tsx                                              ● Modified
-import { Button } from "@/components/ui/button";
-
-export default function Page() {
-  return (
-    <main className="grid min-h-dvh place-items-center">
-      <Button size="lg">Ship it</Button>
-    </main>
-  );
-}
-```
-
-Principles I keep coming back to:
-
-1. **Types are documentation that the compiler enforces.** Use them.
-2. **Security is not a sprint task.** It's the shape of the code.
-3. **Boring is a feature.** Surprises belong in birthdays, not in production.
-
 ## Find me elsewhere
 
 - 🌐 Web — [daloyjs.dev](https://daloyjs.dev/)
