@@ -37,11 +37,9 @@ A few honest disclaimers:
 
 ## What I'm building
 
-| | |
-|---|---|
-| 🌊 **[DaloyJS](https://daloyjs.dev/)** | The framework I'm pouring my brain into. Built for developers who want flow, not friction. |
-| 📚 **Books & Courses** | Long-form material for engineers who'd rather understand than copy-paste. |
-| 🧪 **Side experiments** | Mostly Next.js + shadcn/ui + Tailwind, occasionally something I'll regret in six months. |
+- 🌊 **[DaloyJS](https://daloyjs.dev/)** — the framework I'm pouring my brain into. Built for developers who want flow, not friction.
+- 📚 **Books & Courses** — long-form material for engineers who'd rather understand than copy-paste.
+- 🧪 **Side experiments** — mostly Next.js + shadcn/ui + Tailwind, occasionally something I'll regret in six months.
 
 ## My current stack
 
@@ -94,7 +92,8 @@ Principles I keep coming back to:
 - 🌐 Web — [daloyjs.dev](https://daloyjs.dev/)
 - 📦 Amazon — [Author page](https://www.amazon.com/Devlin-Basilan-Duldulao/e/B08KSGGZ4Z)
 - 💼 LinkedIn — [in/devlinduldulao](https://www.linkedin.com/in/devlinduldulao/)
-- 🐦 X / Twitter — [@devlinduldulao](https://twitter.com/devlinduldulao)
+- 🐦 X — [@devlinduldulao](https://x.com/devlinduldulao)
+- 📸 Instagram — [@devlinduldulao](https://www.instagram.com/devlinduldulao/)
 
 ---
 
