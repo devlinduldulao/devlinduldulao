@@ -41,19 +41,6 @@ A few honest disclaimers:
 - 📚 **Books & Courses** — long-form material for engineers who'd rather understand than copy-paste.
 - 🧪 **Side experiments** — mostly Next.js + shadcn/ui + Tailwind, occasionally something I'll regret in six months.
 
-## My current stack
-
-```ts
-const devlin = {
-  framework:   ["Next.js (App Router)", "DaloyJS"],
-  ui:          ["shadcn/ui", "Tailwind CSS", "Radix"],
-  language:    ["TypeScript", "a little Norwegian", "fluent Filipino sarcasm"],
-  backend:     ["Node.js", ".NET", "Spring Boot", "Postgres"],
-  loves:       ["clean types", "boring deployments", "spicy food"],
-  avoids:      ["any", "console.log in main", "pineapple on adobo"],
-} as const;
-```
-
 ## Books published
 
 - **ASP.NET Core and Vue.js** — Packt · *sole author*
@@ -67,7 +54,7 @@ All three were written **during the pandemic and before the large-language-model
 ## Find me elsewhere
 
 - 🌐 Web — [daloyjs.dev](https://daloyjs.dev/)
-- 📦 Amazon — [Author page](https://www.amazon.com/Devlin-Basilan-Duldulao/e/B08KSGGZ4Z)
+- 📦 Amazon — [Author page](https://www.amazon.com/stores/Devlin-Basilan-Duldulao/author/B092MZZ7BX)
 - 💼 LinkedIn — [in/devlinduldulao](https://www.linkedin.com/in/devlinduldulao/)
 - 🐦 X — [@devlinduldulao](https://x.com/devlinduldulao)
 - 📸 Instagram — [@devlinduldulao](https://www.instagram.com/devlinduldulao/)
